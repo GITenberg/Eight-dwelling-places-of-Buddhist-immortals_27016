@@ -1,0 +1,21 @@
+_repo: Eight-dwelling-places-of-Buddhist-immortals_27016
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Five colors stone
+    gutenberg_agent_id: '32399'
+    url: http://www.gutenberg.org/2009/agents/32399
+description: ''
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27016'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Eight dwelling places of Buddhist immortals
+url: http://www.gutenberg.org/ebooks/27016

@@ -19,5 +19,7 @@ language: zh
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Eight dwelling places of Buddhist immortals
 url: http://www.gutenberg.org/ebooks/27016
